@@ -119,7 +119,7 @@ This project includes a **GitHub Actions** workflow (`deploy.yml`) that automate
 ## Contributors
 👤 **Kavya J**  
 📧 Contact: your-kavyajayadeva062003@gmail.com  
-🔗 GitHub: [your-github-profile](https://github.com/KavyaJGowda06/Devops)
+🔗 GitHub: [your-github-profile](https://github.com/KavyaJGowda06/Devops-)
 
 ---
 
